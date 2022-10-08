@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 url = "2.3.1"
 percent-encoding = "2.2.0"
+argh = "0.1.9"
